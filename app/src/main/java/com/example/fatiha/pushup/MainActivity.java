@@ -14,6 +14,8 @@ public class MainActivity extends AppCompatActivity {
 
     public void calcul(){
         int i= 1;
+        int ii= i+1;
+        int iii= ii+1;
 
 
     }
